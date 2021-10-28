@@ -1,7 +1,8 @@
 # Biography / Myself Website
 Hello This is a biography site designed by me!
+<br />
 🏮 Languages - Html , Css , Javascript , Bootstrap , Scss
-< /br>
+<br />
 ### Connect with me:
 
 [<img align="left" alt="Harshit" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -12,13 +13,6 @@ Hello This is a biography site designed by me!
 <br />
 <br />
 
----
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-< /details>
 ---
   
 [website]: https://harshitkumar.tk
