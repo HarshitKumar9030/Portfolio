@@ -100,12 +100,7 @@ var PageTransitions = (function ($, options) {
         }
     
         function getActiveSection() {
-            if(location.hash === "") {
-                return location.hash = $('section.animated-section').first().attr('data-id');
-            } 
-            else {
-                return location.hash;
-            }
+            return location.hash === "" ? (location.hash = $('section.animated-section').first().attr('data-id')) : location.hash;
         }
     
         function activeMenuItem(item) {
